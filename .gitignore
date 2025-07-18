@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# IDE/Editor files (optional but recommended)
+.vscode/
+.idea/
+*.swp
